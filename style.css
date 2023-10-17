@@ -234,7 +234,7 @@ body {
 
 /* background image */
 #background {
-  background-image: url(img.jpg);
+  background-image: url(img/img.jpg);
   background-repeat: no-repeat;
   background-size: 1300px;
   background-position: 100%;
@@ -700,7 +700,7 @@ body {
 
 #num-eight {
   width: 1300px;
-  background-color: #fafafa;
+  background-color: #e4e1dd;
   background-size: cover;
   font-family: "Raleway", sans-serif;
   margin-top: 650px;
@@ -807,7 +807,7 @@ body {
 /* 9th number level*/
 
 #nine {
-  background-image: url("images.jpeg");
+  background-image: url("img/img.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -1354,7 +1354,7 @@ body {
   font-family: "Raleway", sans-serif;
 }
 .footer-one {
-  width: 300px;
+  width: 270px;
   float: left;
 }
 .footer-left-one i {
@@ -1408,8 +1408,8 @@ body {
 }
 
 .footer-two {
-  width: 180px;
-  margin-left: 320px;
+  width: 130px;
+  margin-left: 10px;
   float: left;
   overflow: hidden;
 }
@@ -1428,8 +1428,8 @@ body {
   color: #ec5b1c;
 }
 .footer-three {
-  width: 400px;
-  margin-left: 400px;
+  width: 380px;
+  margin-left: 450px;
 }
 .footer-three h2 {
   padding-bottom: 20px;
@@ -1445,14 +1445,15 @@ body {
 .footer-four {
   width: 420px;
   float: right;
-  margin: -335px 0px;
+  margin: -340px 0px;
 }
 .footer-four h2 {
   padding-bottom: 20px;
 }
 
 .footer-four form input {
-  border: none;
+  width: 275px;
+  border: 1px solid #555;
   background: #2c353c;
   padding: 10px 70px;
   margin: 8px 0px;
